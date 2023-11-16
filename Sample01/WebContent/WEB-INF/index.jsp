@@ -14,5 +14,6 @@
 	</div>
 	<a href="www.naver.com">프로젝트에서 추가한 내용</a>
 	<span>깃허브에서 2번째로 추가한 내용</span>
+	<h2>수정자 - 안중건</h2>
 </body>
 </html>
